@@ -1,0 +1,73 @@
+<div class="container">
+    <div>
+        <h3 class="headline">‎</h3><span class="line margin-bottom-45"></span>
+        <div class="clearfix"></div> <br> <br>
+    </div>
+    <a href="form-paket.php">
+                    <button class="btn btn-outline-success btn-block">
+                        Tambahkan paket
+                    </button>
+                </a>
+                <div>
+        <h3 class="headline">‎</h3><span class="line margin-bottom-10"></span>
+        <div class="clearfix"></div> <br> <br>
+    </div>
+    <div class="row">
+        <div class="plan color-2 four columns">
+            <div class="plan-price">
+                <h3>kiloan</h3> <span class="plan-currency">rp</span> <span class="value">5000</span> <span class="period">/1kg</span>
+            </div>
+            <div class="plan-features">
+                <ul>
+                    <li>lebih hemat</li>
+                    <li>laundry 10kg diskon15%</li>
+                    <li>gratis setrika</li>
+                    <li>#</li>
+                    <li>#</li>
+                </ul> <a class="button" href="form-paket.php">edit</a>
+            </div>
+        </div>
+        <div class="plan color-2 four columns">
+            <div class="plan-price">
+                <h3>harian</h3> <span class="plan-currency">rp</span> <span class="value">1500</span> <span class="period">/pakaian</span>
+            </div>
+            <div class="plan-features">
+                <ul>
+                    <li>kurang dari 1kg</li>
+                    <li>dihitung per biji</li>
+                    <li>setrika + 500/pakaian</li>
+                    <li>tidak menerima daleman</li>
+                    <li>#</li>
+                </ul> <a class="button" href="form-paket.php">edit</a>
+            </div>
+        </div>
+        <div class="plan color-2 four columns">
+            <div class="plan-price">
+                <h3>ukuran besar</h3> <span class="plan-currency">rp</span> <span class="value">10000</span> <span class="period">/barang</span>
+            </div>
+            <div class="plan-features">
+                <ul>
+                    <li>dihitungper barang</li>
+                    <li>setrika + 5000</li>
+                    <li>waktu paling cepat 3 hari</li>
+                    <li>jika banyak semakin lama</li>
+                    <li>#</li>
+                </ul> <a class="button" href="form-paket.php">edit</a>
+            </div>
+        </div>
+        <div class="plan color-2 four columns">
+            <div class="plan-price">
+                <h3>bed cover</h3> <span class="plan-currency">rp</span> <span class="value">10000</span> <span class="period">/ per month</span>
+            </div>
+            <div class="plan-features">
+                <ul>
+                    <li>waktu proses semakin lama</li>
+                    <li>tanpa setrika</li>
+                    <li>parfum + 5000</li>
+                    <li>#</li>
+                    <li>#</li>
+                </ul> <a class="button" href="form-paket.php">edit</a>
+            </div>
+        </div>
+    </div>
+</div>
